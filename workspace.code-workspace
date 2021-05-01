@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../Intro-To-p5"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "project-113"
+    }
+}
